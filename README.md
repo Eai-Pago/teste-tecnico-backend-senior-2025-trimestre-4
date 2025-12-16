@@ -21,7 +21,7 @@ Para documentação, queremos:
 
 Para infra, vamos usar o seguinte conjunto:
 
-- [ ] um arquivo `Dockerfile` para fazer o build da imagem a partir da imagem `node:22-alpine`;
+- [ ] um arquivo `Dockerfile` para fazer o build da imagem;
 - [ ] um arquivo `docker-compose.yml` para orquestrar os contêineres relacionados à aplicação.
 
 Para testes, buscamos:
@@ -49,7 +49,7 @@ Este teste busca avaliar as seguintes competências:
 - Capacidade de interação com APIs de sistema;
 - Capacidade de desenvolver soluções que usam o conceito de concorrência para extrair maior desempenho do hardware;
 - Domínio sobre a linguagem utilizada;
-- Domínio sobre conceitos de POO ou Programação Funcional aplicada a projetos de mercado.
+- Domínio sobre conceitos de POO ou Programação Funcional aplicada a projetos de mercado;
 - Capacidade de lidar com imagens e contêineres Docker;
 - Capacidade de desenvolver soluções que possam rodar em modo dev localmente com docker. (Dev Experience) e
 - Capacidade de organização de código. Adendo: organize da forma que for mais familiarizado, não estamos olhando para a estrutura de pastas, mas sim para a coesão e o desacoplamento.
