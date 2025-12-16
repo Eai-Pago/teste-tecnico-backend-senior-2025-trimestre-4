@@ -13,6 +13,11 @@ A ideia é bem simples:
 - [ ] uma rota `GET /static/image/:filename` e
     - [ ] retornando o código de status 404 em caso de não existência de um arquivo
     - [ ] retornando a imagem com status 200 em caso de o arquivo existir no servidor
+     
+Para documentação, queremos:
+
+- [ ] Swagger
+- [ ] Arquivos markdown descrevendo os casos de uso
 
 Para infra, vamos usar o seguinte conjunto:
 
@@ -23,6 +28,7 @@ Para testes, buscamos:
 
 - [ ] Testes unitários
 - [ ] Testes de integração (e2e)
+- [ ] Testes de carga (k6 ou similar)
 
 ## Pontos de Qualidade
 
