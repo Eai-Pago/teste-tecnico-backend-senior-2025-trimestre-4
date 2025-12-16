@@ -39,11 +39,7 @@ Para testes, buscamos:
 
 ## Restrições ao código-fonte do Aplicativo.
 
-A única limitação é o uso requerido da runtime `node.js` e extensões voltadas ao TypeScript, como por exemplo o `ts-node`, lib que fornece uma CLI para transpilar typescript e executar o resultado final usando node.
-
-Você tem total liberdade para usar as demais bibliotecas que mais lhe fornecerem produtividade.
-
-Acaso você esteja utilizando este projeto como um meio de estudo, nós o aconselhamos a usar a biblioteca padrão para lidar com requisições web do Node.js, `http`.
+Você tem total liberdade para usar a linguagem que quiser e as demais bibliotecas que mais lhe fornecerem produtividade.
 
 ## O que estamos avaliando
 
@@ -52,10 +48,8 @@ Este teste busca avaliar as seguintes competências:
 - Capacidade de aplicação pertinente de Design Patterns;
 - Capacidade de interação com APIs de sistema;
 - Capacidade de desenvolver soluções que usam o conceito de concorrência para extrair maior desempenho do hardware;
-- Domínio sobre a linguagem JavaScript;
-- Domínio sobre a linguagem TypeScript;
-- Domínio sobre conceitos de POO aplicada a projetos de mercado.
-- Domínio sobre a runtime `node.js`;
+- Domínio sobre a linguagem utilizada;
+- Domínio sobre conceitos de POO ou Programação Funcional aplicada a projetos de mercado.
 - Capacidade de lidar com imagens e contêineres Docker;
 - Capacidade de desenvolver soluções que possam rodar em modo dev localmente com docker. (Dev Experience) e
 - Capacidade de organização de código. Adendo: organize da forma que for mais familiarizado, não estamos olhando para a estrutura de pastas, mas sim para a coesão e o desacoplamento.
